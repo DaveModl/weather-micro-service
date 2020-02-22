@@ -20,4 +20,14 @@
 
 ![基本架构](https://github.com/DaveModl/weather-micro-service/blob/master/weather.png)
 
+## 所用技术
+* springboot 2.2.4
+
+
+* redis5.0.7
+
+
+* springcloud（网关使用了zuul和gateway两种方式）
+
+
 
