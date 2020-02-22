@@ -1,0 +1,9 @@
+# Project exclude paths
+/weather-city-micro-service/target/
+/weather-collection-micro-service/target/
+/weather-data-micro-service/target/
+/weather-eureka/target/
+/weather-eureka-client-feign/target/
+/weather-eureka-client-gateway/target/
+/weather-eureka-client-ribbon/target/
+/weather-report-micro-service/target/
