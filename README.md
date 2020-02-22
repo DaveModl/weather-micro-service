@@ -18,6 +18,6 @@
 ## 基本架构
 
 
-![基本架构]
+![基本架构](https://github.com/DaveModl/weather-micro-service/blob/master/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E5%BE%AE%E6%9C%8D%E5%8A%A1.png)
 
 
